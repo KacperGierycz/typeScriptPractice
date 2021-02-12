@@ -1,0 +1,11 @@
+var found = true;
+var grade = 88.6;
+var firstName = "Anup";
+var lastName = 'Kumar';
+console.log(found);
+console.log(grade);
+console.log("Hi " + firstName + " " + lastName);
+found = false;
+grade = 1;
+console.log(found + " " + grade);
+console.log("HI " + firstName + " " + lastName + " " + firstName);
